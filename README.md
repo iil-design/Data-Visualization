@@ -1,3 +1,9 @@
 # Data-Visualization
 生成虚拟淘宝天猫双十一的数据并进行可视化分析
 
+其中fake_orders为生成的虚假数据
+
+包含的列为：internal_order_number	online_order_number	store_name	full_channel_user_id	shipping_date	payment_date	payable_amount	paid_amount	status	consignee	spu	order_time	province	city	platform	sub_order_number	online_sub_order_number	original_online_order_number	sku	quantity	unit_price	product_name	color_and_spec	product_amount	original_price	is_gift	sub_order_status	refund_status	registered_quantity	actual_refund_quantity
+
+
+
